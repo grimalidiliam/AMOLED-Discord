@@ -27,7 +27,7 @@
             "#505050"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#b50000"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
             "#505050"
@@ -42,7 +42,7 @@
             "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#b5000033"
+            "#ffffff"
         ],
         "BACKGROUND_ACCENT": [
             "#000000"
@@ -61,7 +61,7 @@
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#b50000"
+            "#ffffff"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#000000"
