@@ -24,10 +24,10 @@
             "#ffffff"
         ],
         "INTERACTIVE_HOVER": [
-            "#000000"
+            "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#000000"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
             "#000000"
@@ -73,7 +73,7 @@
             "#25252533"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#00000"
+            "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#000000"
