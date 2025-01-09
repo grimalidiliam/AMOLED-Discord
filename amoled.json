@@ -18,7 +18,7 @@
             "#000000"
         ],
         "TEXT_MUTED": [
-            "#949494"
+            "#000000"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -137,9 +137,9 @@
         "BRAND_560": "#000000",
         "YELLOW_300": "#ffffff",
         "GREEN_600": "#ffffff",
-        "RED_400": "#ffffff",
-        "WHITE_500": "#ffffff",
-        "GREEN_360": "#ffffff",
+        "RED_400": "#000000",
+        "WHITE_500": "#000000",
+        "GREEN_360": "#000000",
         "PLUM_20": "#000000",
         "PLUM_17": "#000000",
         "PLUM_13": "#000000",
