@@ -24,7 +24,7 @@
             "#000000"
         ],
         "INTERACTIVE_HOVER": [
-            "#000000"
+            "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
             "#000000"
@@ -64,7 +64,7 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#505050"
@@ -76,7 +76,7 @@
             "#00000"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#ffffff"
+            "#000000"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -91,7 +91,7 @@
             "#ffffff"
         ],
         "CHANNELS_DEFAULT": [
-            "#ffffff"
+            "#000000"
         ],
         "TEXT_LINK": [
             "#ffffff"
