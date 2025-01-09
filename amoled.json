@@ -73,7 +73,7 @@
             "#25252533"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#b50000"
+            "#ffffff"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#ffff11"
@@ -82,19 +82,19 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#b50000"
+            "#ffffff"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#b50000"
+            "#ffffff"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#ff0000"
         ],
         "CHANNELS_DEFAULT": [
-            "#b50000"
+            "#ffffff"
         ],
         "TEXT_LINK": [
-            "#b50000"
+            "#ffffff"
         ],
         "TEXT_DANGER": [
             "#757575"
