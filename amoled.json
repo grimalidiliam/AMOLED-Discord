@@ -1,42 +1,43 @@
 {
-    "name": "AMOLED",
-    "description": "True AMOLED.",
+    "name": "PureAMOLED",
+    "description": "Pure AMOLED.",
     "authors": [
         {
             "name": "Nerdulater",
-            "id": "710329141903360011"
+            "id": "499712446735581204"
         }
     ],
     "semanticColors": {
+            
         "HEADER_PRIMARY": [
-            "#000000"
-        ],
-        "HEADER_SECONDARY": [
-            "#000000"
-        ],
-        "TEXT_NORMAL": [
-            "#000000"
-        ],
-        "TEXT_MUTED": [
-            "#000000"
-        ],
-        "INTERACTIVE_NORMAL": [
             "#ffffff"
         ],
-        "INTERACTIVE_HOVER": [
-            "#000000"
+        "HEADER_SECONDARY": [
+            "#ffffff"
+        ],
+        "TEXT_NORMAL": [
+            "#FAEBFF"
+        ],
+        "TEXT_MUTED": [
+            "#947592"
+        ],
+        "TEXT_LINK": [
+            "#008dfc"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#949ba4"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#000000"
+            "#dbdee1"
         ],
         "INTERACTIVE_MUTED": [
-            "#000000"
+            "#947592"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+           "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#000000"
@@ -70,90 +71,51 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#00000"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
         ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#000000"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#000000"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#000000"
-        ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#000000"
+            "#A4A4A4"
         ],
         "CHANNELS_DEFAULT": [
-            "#000000"
-        ],
-        "TEXT_LINK": [
-            "#000000"
+            "#7e7e7e"
         ],
         "TEXT_DANGER": [
-            "#000000"
+            "#e20303"
         ],
         "KEYBOARD": [
             "#000000"
         ],
-        "BG_BACKDROP": [
-            "#000000"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#000000"
-        ],
         "CHANNEL_ICON": [
-            "#000000"
+            "#80848e"
         ],
         "CHAT_BACKGROUND": [
-            "#000000"
-        ],
-        "CARD_PRIMARY_BG": [
             "#000000"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#000000",
-        "PRIMARY_100": "#000000",
-        "PRIMARY_200": "#000000",
-        "PRIMARY_300": "#000000",
-        "PRIMARY_360": "#000000",
-        "PRIMARY_400": "#5865F2",
-        "PRIMARY_600": "#ffffff",
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#FFFFFF",
+        "PRIMARY_360": "#b0b0b0",
+        "PRIMARY_400": "#b0b0b0",
+        "PRIMARY_500": "#b0b0b0",
+        "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
-        "PRIMARY_660": "#ffffff",
+        "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#5865F2",
-        "BLACK_500": "#000000",
-        "BRAND_260": "#0000ff",
-        "BRAND_360": "#ffffff",
-        "BRAND_500": "#ffffff",
-        "BRAND_560": "#000000",
-        "YELLOW_300": "#ffffff",
-        "GREEN_600": "#ffffff",
-        "RED_400": "#000000",
-        "WHITE_500": "#000000",
-        "GREEN_360": "#000000",
-        "PLUM_20": "#000000",
-        "PLUM_17": "#000000",
-        "PLUM_13": "#000000",
-        "PLUM_16": "#000000"
-        
- },
-    "background": {
-        "blur": 0.1,
-        "url": ""
-    },
-  "plus": {
-    "version": "0",
-    "iconPack": "rosiecord-plumpy"
-},
-    "spec": 2
+        "PRIMARY_800": "#000000",
 
+        "BRAND_260": "#5865f2",
+        "BRAND_360": "#5865f2",
+        "BRAND_500": "#5865f2",
+        "BRAND_560": "#5865f2",
+        "WHITE_500": "#f2f3f5",
+        "YELLOW_300": "#f0d31b",
+        "GREEN_360": "#23a55a",
+        "RED_400": "#f23f43"
+    },
+    "spec": 2
 }
