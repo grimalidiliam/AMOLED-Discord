@@ -9,16 +9,16 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ffffff"
+            "#000000"
         ],
         "HEADER_SECONDARY": [
-            "#ffffff"
+            "#000000"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#ffffff"
+            "#949494"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -51,10 +51,10 @@
             "#ffffff"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
+            "#ffffff"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#fffff"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#ffffff"
