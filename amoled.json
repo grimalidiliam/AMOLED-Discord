@@ -12,7 +12,7 @@
             "#000000"
         ],
         "HEADER_SECONDARY": [
-            "#ffffff"
+            "#000000"
         ],
         "TEXT_NORMAL": [
             "#000000"
@@ -119,7 +119,7 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#ffffff",
+        "PRIMARY_500": "#000000",
         "PRIMARY_100": "#000000",
         "PRIMARY_200": "#000000",
         "PRIMARY_300": "#000000",
@@ -130,7 +130,7 @@
         "PRIMARY_660": "#ffffff",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#5865F2",
-        "BLACK_500": "#ffffff",
+        "BLACK_500": "#000000",
         "BRAND_260": "#0000ff",
         "BRAND_360": "#ffffff",
         "BRAND_500": "#ffffff",
