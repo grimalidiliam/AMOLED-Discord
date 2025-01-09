@@ -16,10 +16,10 @@
             "#ffffff"
         ],
         "TEXT_NORMAL": [
-            "#FAEBFF"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#947592"
+            "#ffffff"
         ],
         "TEXT_LINK": [
             "#008dfc"
@@ -114,7 +114,7 @@
         "BRAND_560": "#5865f2",
         "WHITE_500": "#f2f3f5",
         "YELLOW_300": "#f0d31b",
-        "GREEN_360": "#23a55a",
+        "GREEN_360": "#ffffff",
         "RED_400": "#f23f43"
     },
     "spec": 2
