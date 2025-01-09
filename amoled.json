@@ -103,7 +103,7 @@
             "#11ffff"
         ],
         "BG_BACKDROP": [
-            "#B2000000"
+            "#ffffff"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#000000"
@@ -139,7 +139,7 @@
         "GREEN_600": "#ef9a9a",
         "RED_400": "#ffffff",
         "WHITE_500": "#ffffff",
-        "GREEN_360": "#605d91",
+        "GREEN_360": "#ffffff",
         "PLUM_20": "#050505",
         "PLUM_17": "#101010",
         "PLUM_13": "#101010",
