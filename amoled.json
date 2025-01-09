@@ -30,7 +30,7 @@
             "#000000"
         ],
         "INTERACTIVE_MUTED": [
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -61,7 +61,7 @@
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#ffffff"
@@ -73,10 +73,10 @@
             "#25252533"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#ffffff"
+            "#00000"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#ffff11"
+            "#ffffff"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -109,7 +109,7 @@
             "#ffffff"
         ],
         "CHANNEL_ICON": [
-            "#ffffff"
+            "#000000"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
