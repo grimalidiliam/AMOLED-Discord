@@ -21,13 +21,13 @@
             "#949494"
         ],
         "INTERACTIVE_NORMAL": [
-            "#000000"
+            "#ffffff"
         ],
         "INTERACTIVE_HOVER": [
             "#000000"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#000000"
         ],
         "INTERACTIVE_MUTED": [
             "#000000"
