@@ -30,7 +30,7 @@
             "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#505050"
+            "#ffffff"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -48,7 +48,7 @@
             "#ffffff"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            "#ffffff"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
