@@ -67,10 +67,10 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#505050"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#25252533"
+            "#00000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
@@ -97,7 +97,7 @@
             "#ffffff"
         ],
         "TEXT_DANGER": [
-            "#757575"
+            "#000000"
         ],
         "KEYBOARD": [
             "#11ffff"
